@@ -1,0 +1,61 @@
+{
+  "language": "deutsch",
+  "create": {
+      "sectionheader": "wasserzeichen erstellen",
+      "header1": "zeichnen und schreiben",
+      "header2": "text einfügen",
+      "header3": "textfelder editieren",
+      "header4": "wasserzeichen speichern",
+      "header5": "wasserzeichen gespeichert",
+      "header6": " speichern ",
+      "description1": "wähle aus der malpalette ein zeichenwerkzeug mit strichstärke, farbe und deckkraft. wähle mit dem lasso-stift teile deiner zeichnung aus, die du verschieben, löschen, duplizieren, kopieren oder deren farbe du ändern möchtest. der radiergummi kann auf das löschen ganzer zeichen-objekte oder pixel-radieren eingestellt werden. verwende das lineal für gerade linien. \ntippe, wenn gewünscht, auf die drei punkte, um die malpalette automatisch zu verkleinern.",
+      "description2": "tippe auf [abc], um ein textfeld hinzuzufügen. jedes textfeld kann separat editiert werden. \nder [ abc ] button ist verschiebbar. du kannst ihn verschieben, wie immer du möchtest.",
+      "description3": "tippe auf ein textfeld, um es zu editieren. dies öffnet den editor für schrift und textfarbe. nach langem drücken kannst du den text auswählen. \ndu kannst drei farben verändern und speichern. tippe sie dafür an. die vierte farbe rechts ist die farbe, die im aktuellen textfeld gespeichert ist. sie ist nicht veränderbar und kann gewählt werden, um die farbe zurückzusetzen. \nder editor ist sichtbar, bis du ihn entweder schließt (tippe auf die pfeile rechts unten) oder in die zeichenfläche tippst.\nder editor ist verschiebbar. wenn die farbwerte verändert werden, bleibt er auf der aktuellen position und wird wieder verschiebbar, wenn er geschlossen und wieder geöffnet wird.",
+      "description4": "tippe auf [ speichern ] zum speichern des wasserzeichens (.png) im ming sign ordner. du kannst aber weiterzeichnen, wenn du möchtest. jedes speichern erstellt eine neue gespeicherte version des bilds. \nder [ speichern ] button ist verschiebbar. du kannst ihn platzieren, wo du möchtest."
+  },
+  "sign": {
+      "sectionheader": "bilder signieren",
+      "header1": "wasserzeichen auswählen",
+      "header2": "zu signierende(s) bild(er) auswählen",
+      "header3": "wasserzeichen skalieren",
+      "header4": "transparenz des wasserzeichens",
+      "header5": "signierte(s) bild(er) speichern",
+      "header6": "wähle ein wasserzeichen",
+      "header7": "ming sign ordner",
+      "header8": "photo bibliothek",
+      "header9": "bild(er) signieren",
+      "header10": "neues wasserzeichen",
+      "header11": "zur photo bibliothek",
+      "header12": " signiertes bild gespeichert ",
+      "header13": " alle bilder gespeichert ",
+      "header14": " transparenz: ",
+      "header15": " skalierung: ",
+      "header16": "dein ming sign ordner ist leer",
+      "description1": "tippe zum auswählen auf ein bild. \ndu kannst auch nicht mit ming sign gezeichnete bilder (.png, .gif, .tiff, .jpg) zum ming sign ordner deines iPads hinzufügen.",
+      "description2": "wähle eines oder mehrere bilder (.png, .gif, .tiff, .jpg, .jpeg) aus dem ming sign ordner. tippen wählt das bild, erneutes tippen entfernt das bild aus der auswahl. oder wähle ein bild aus der photo bibliothek deines iPads.",
+      "description3": "schiebe zwei finger auseinander oder zusammen, um das wasserzeichen zu skalieren. der aktuelle skalierungs-faktor erscheint auf deinem iPad.",
+      "description4": "doppel-tippe auf das wasserzeichen. dies macht das wasserzeichen unverschieblich. jetzt kannst du deine finger nach rechts und links schieben, um die transparenz zu verändern. der transparenz-faktor erscheint auf deinem iPad. \nein erneutes doppel-tippen beendet die einstellung der transparenz und das wasserzeichen ist wieder verschiebbar.",
+      "description5": "tippe auf [ speichern ], um dein bild zu speichern. in den einstellungen kannst du festlegen, ob es in der photo bibliothek (.jpg) und / oder im ming sign ordner (.png) gespeichert werden soll. ist nichts gewählt, wird es in der photo bibliothek gespeichert. \nhast du mehrere bilder ausgewählt, wird danach das nächste bild angezeigt. sonst kannst du ein bild aus der photo bibliothek auswählen."
+      
+  },
+  "settings": {
+      "sectionheader": "einstellungen",
+      "header1": "wasserzeichen speichern",
+      "header2": "hintergrund der zeichenfläche",
+      "header3": "signierte(s) bild(er) speichern",
+      "header4": "ming sign . leitfaden & einstellungen",
+      "description1": "dein wasserzeichen wird beim tippen auf [ speichern ] im ming sign ordner (im datei-app deines iPads) gespeichert. du kannst wählen, ob es (zusätzlich) beim schließen der zeichenebene gespeichert werden soll.",
+      "description2": "im ming sign ordner speichern",
+      "description3": "in der photo bibliothek speichern",
+      "description4": "immer speichern beim tippen auf",
+      "description5": "entscheide, ob der hintergrund sich dem dark oder light modus anpassen oder immer schwarz oder weiß sein soll. \nwenn du gerade zeichnest, wird die änderung angezeigt, sobald du einen textbaustein einfügst oder die zeichenfläche schließt und wieder öffnest.",
+      "description6": "wähle, ob du deine signierten bilder im ming sign ordner (empfohlen für bilder mit transparenz) und / oder in der photo bibliothek deines iPads speichern möchtest."
+  },
+  "about": {
+      "sectionheader": "über",
+      "header1": "\n\nvielen dank an",
+      "header2": "",
+      "description1": "arek roczniewski \nchristian gesty \n\ngithub \nstackoverflow \nalex nagy \npaul hudson \nray wenderlich",
+      "description2": ""
+  }
+}

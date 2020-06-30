@@ -1,0 +1,61 @@
+{
+  "language": "english",
+  "create": {
+      "sectionheader": "create watermark",
+      "header1": "drawings and signatures",
+      "header2": "create a text field",
+      "header3": "edit text fields",
+      "header4": "save your watermark image",
+      "header5": "watermark image saved",
+      "header6": " save ",
+      "description1": "just use the drawing tool picker to choose your drawing tool and to set size, opacity and color for each of them. use the lasso tool to select a part of your drawing and move, duplicate, copy, delete it or change it's color. the eraser can be set to remove whole drawing-objects or to pixelwise erasing. use the ruler to draw straight lines. \ntap on the three points to set the tool picker to auto minimize, if desired.",
+      "description2": "tap on the [ abc ] button to create a new text field. you can edit every text field seperately.\nthe [ abc ] button is moveable. you can position it wherever you like.",
+      "description3": "tap on a text field to edit. this will open a font and text color editor. on long press you can select text. \nyou can custom three colors by tapping on them and changing the values. the forth color on the right is the color saved to your current text field. it is inchangeable and can be selected to reset the color. \nthe editor will be visible until you either dismiss it (tap on the arrows in the right bottom corner) or tap on the drawing area.\nthe editor is moveable. you can position it wherever you like. when changing values, it is fixed and will be moveable again when dismissed and opened for the next time.",
+      "description4": "tap on [ save ] button will save your watermark image (.png) to your ming sign folder, but you can continue your drawing, if desired. every save action will create a new saved image. \nthe [ save ] button is moveable. you can position it wherever you like."
+  },
+  "sign": {
+      "sectionheader": "sign image(s)",
+      "header1": "select a watermark image",
+      "header2": "select image(s) to sign",
+      "header3": "scale a watermark image",
+      "header4": "change the opacity of your watermark image",
+      "header5": "save signed image(s)",
+      "header6": "select a watermark image",
+      "header7": "ming sign folder",
+      "header8": "photo library",
+      "header9": "sign image(s)",
+      "header10": "select new watermark",
+      "header11": "select from photo library",
+      "header12": " signed image saved ",
+      "header13": " all images saved ",
+      "header14": " opacity: ",
+      "header15": " scale: ",
+      "header16": "your ming sign folder is empty",
+      "description1": "tap on an image to select it. \nyou can also add images not drawn with ming sign (.png, .gif, .tiff, .jpg) to your ming sign folder in your iPad's file system.",
+      "description2": "select one or more image(s) from the ming sign folder  (.png, .gif, .tiff, .jpg, .jpeg). tapping selects the image, second tapping removes it from selection. or select one image from the photo library.",
+      "description3": "use the pinch gesture to scale your image. the actual scaling factor will appear on your screen.",
+      "description4": "double tap on your watermark image. this will fix it to the actual position. now moving your finger left and right reduces or increases the opacity. the actual opacity factor will appear on your screen. a second double tap will finish the opacity mode and set the image movable again.",
+      "description5": "on tap on the [ save ] button your image will be saved. in the settings you can choose to save it to your devices's photo library (.jpg) and / or to the ming sign folder (.png). if nothing is selected, your image will be saved to the photo library. \nwhen you selected several images, then the next one will appear. otherwise you can choose the next image to sign from your photo library."
+      
+  },
+  "settings": {
+      "sectionheader": "settings",
+      "header1": "save your watermark image",
+      "header2": "set the background of your drawing area",
+      "header3": "save your signed image",
+      "header4": "ming sign . guide & settings",
+      "description1": "your watermark image is saved to your ming sign folder in your iPad's file system app app by tapping on [ save ]. you can choose to save it (additionally) by closing the drawing view.",
+      "description2": "save to ming sign folder",
+      "description3": "save to photo library",
+      "description4": "always save by tapping on",
+      "description5": "choose, if the background should adapt to dark or light mode or be always black or white. \nif the watermark drawing view is active, the change will be visible by adding a text field or by closing and re-opening the view.",
+      "description6": "you can choose to save your signed image to the ming sign folder (recommended for images with translucent areas) and / or to your device's photo library."
+  },
+  "about": {
+      "sectionheader": "about",
+      "header1": "\n\nmany thanks to",
+      "header2": "",
+      "description1": "arek roczniewski \nchristian gesty \n\ngithub \nstackoverflow \nalex nagy \npaul hudson \nray wenderlich",
+      "description2": ""
+  }
+}
